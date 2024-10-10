@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">seguroapp</string>
+    <string name="txv_titulo">Seguro App</string>
+    <string name="txv_subtitulo">Conoce el valor del seguro para tu auto</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="hnt_marca">Ingrese marca</string>
+    <string name="hnt_modelo">Ingrese modelo</string>
+    <string name="hnt_ano">Ingrese año</string>
+</resources>
